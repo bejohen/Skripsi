@@ -1,0 +1,8 @@
+__ci_last_regenerate|i:1505883878;msgbox|s:389:"<div class="alert alert-block alert-success">
+                        <button type="button" class="close" data-dismiss="alert">
+                                <i class="ace-icon fa fa-times"></i>
+                        </button>
+
+                        <!--<i class="ace-icon fa fa-check green"></i>-->
+                        Berhasil menambahkan data
+                    </div>";__ci_vars|a:1:{s:6:"msgbox";s:3:"old";}

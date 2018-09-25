@@ -1,0 +1,8 @@
+[06-Aug-2016 12:02:18 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/kpptech/public_html/operation/yulia/reservasi/application/models/m_login.php on line 72
+[06-Aug-2016 12:07:01 Asia/Jakarta] PHP Fatal error:  Call to a member function kirim() on a non-object in /home/kpptech/public_html/operation/yulia/reservasi/application/controllers/login.php on line 60
+[06-Aug-2016 12:38:57 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/kpptech/public_html/operation/yulia/reservasi/application/controllers/reservasi.php on line 47
+[06-Aug-2016 12:39:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/kpptech/public_html/operation/yulia/reservasi/application/controllers/reservasi.php on line 51
+[06-Aug-2016 12:40:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/kpptech/public_html/operation/yulia/reservasi/application/controllers/reservasi.php on line 51
+[20-Jun-2018 14:40:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting function (T_FUNCTION) in /home/kpptech/public_html/operation/eris/reservasi_hotel/application/controllers/api/Services.php on line 78
+[23-Jul-2018 04:58:38 Asia/Jakarta] PHP Fatal error:  Cannot use object of type stdClass as array in /home/kpptech/public_html/operation/eris/reservasi_hotel/application/controllers/api/Services.php on line 216
+[20-Sep-2018 11:40:53 Asia/Jakarta] PHP Fatal error:  Call to a member function getMentorDetail() on null in /home/kpptech/public_html/operation/eris/johanes/application/models/m_umum.php on line 14

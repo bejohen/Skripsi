@@ -1,0 +1,80 @@
+/* FONTS /*
+
+/*  font used in the body text */
+body {
+	font-family:'Source Sans Pro',Arial,sans-serif;
+	}
+
+/* font used in the headers */
+h1, h2, h3, h4 {
+	font-family:'Open Sans Condensed',Georgia,serif;
+	}
+
+
+/* BACKGROUNDS AND COLORS /*
+
+/* overall background color and image */
+body {
+	background-color:#1E252D;
+	background-image:url(../img/background-1.jpg);
+	}
+
+/* border color of headers in the slides */
+.slides-content h2 {
+	border-color:#c29e50;
+	}
+
+/* hover color for the slider navigation arrows */
+.owl-prev:hover, .owl-next:hover {
+	background-color:#c29e50;
+	}
+
+/* background color of the form buttons */
+button {
+	background-color:#c29e50;
+	}
+	
+/* background color of table head row */
+table thead {
+	background-color:#c29e50;
+	}
+
+/* background color of the features tags in the room pages */
+.features li {
+	background-color:#c29e50;
+	}
+
+/* background colors for the availability datepicker popup */
+.ui-datepicker .ui-widget-header, .ui-datepicker .ui-state-highlight {
+	background:#c29e50 !important;
+	}
+
+/* background color used on the availability/enquiry widget */
+.availability {
+	background-color:#31373F;
+	}
+
+/* background color for the price tags */
+[class^="char"] {
+	background-color:#C29E50;
+	}
+
+/* border color on the bottom of the footer */
+.footer {
+	border-bottom-color:#c29e50;
+	}
+
+/* border color of the current navigation item */
+.nav-active {
+	border-bottom-color:#c29e50;
+	}
+	
+/* border color of the dropdown */
+.sub-menu > li:last-child {
+	border-bottom-color:#c29e50;
+	}
+
+/* color for the links in the content */
+a {
+	color:#c29e50;
+	}
